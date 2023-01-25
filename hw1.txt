@@ -1,0 +1,25 @@
+בניסוף לש.ב שהיה 
+תתכילו לעשות את התרגילים
+
+Fundamental(ES6) Part-I
+https://www.w3resource.com/javascript-exercises/fundamental/index.php
+Fundamental(ES6) Part-II
+https://www.w3resource.com/javascript-exercises/fundamental/index1.php
+
+Functions
+https://www.w3resource.com/javascript-exercises/javascript-functions-exercises.php
+
+Conditional statements and loops
+https://www.w3resource.com/javascript-exercises/javascript-conditional-statements-and-loops-exercises.php
+
+Array
+https://www.w3resource.com/javascript-exercises/javascript-array-exercises.php
+
+String/Text
+https://www.w3resource.com/javascript-exercises/javascript-string-exercises.php
+
+Object
+https://www.w3resource.com/javascript-exercises/javascript-object-exercises.php
+
+Datetime
+https://www.w3resource.com/javascript-exercises/javascript-date-exercises.php
